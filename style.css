@@ -1,0 +1,10 @@
+#welcome{
+    border-image: linear-gradient(red, gray);
+    border-radius: 40%;
+    border-image-slice:1 ;
+    border-left: 7px solid;
+    margin-left: 100px;
+    padding-left: 20px;
+    font-size: 100px;
+    border-radius: 50%;
+}
